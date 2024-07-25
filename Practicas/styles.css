@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+button {
+    margin-top: 10px;
+}
+
+p {
+    margin-top: 10px;
+    font-weight: bold;
+}
